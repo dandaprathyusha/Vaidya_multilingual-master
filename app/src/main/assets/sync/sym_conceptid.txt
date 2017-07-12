@@ -1,0 +1,138 @@
+abdominal cramps,0,en
+abdominal pain,1,en
+anorexia,2,en
+blisters,3,en
+chills,4,en
+cough,5,en
+diarrhea,6,en
+difficulty in breathing,7,en
+dry cough,8,en
+enlarged,9,en
+eruption of rose colored spots,10,en
+fatigue,11,en
+fever,12,en
+fever since a week,13,en
+frequent cough,14,en
+headache,15,en
+irritation,16,en
+joint pain,17,en
+leukopenia,18,en
+liver enlargement,19,en
+loss of appetite,20,en
+mild bleeding,21,en
+muscle ache,22,en
+muscle and bone pain,23,en
+myalgia,24,en
+nausea,25,en
+pain,26,en
+prostration,27,en
+rash,28,en
+redness,29,en
+runny nose,30,en
+severe headache,31,en
+severe pain behind the eyes,32,en
+smoking habit,33,en
+sore throat,34,en
+splenomegaly,35,en
+sputum while coughing,36,en
+stiffness,37,en
+swallowing,38,en
+swelling,39,en
+tightness around chest,40,en
+vomiting,41,en
+watery diarrhea,42,en
+weight loss,43,en
+wet cough,44,en
+wheezing,45,en
+पेट में ऐंठन,0,hi
+पेट में दर्द,1,hi
+एनोरेक्सिया,2,hi
+फफोले,3,hi
+ठंड लगना,4,hi
+खांसी,5,hi
+दस्त,6,hi
+सांस लेने में कठिनाई,7,hi
+सूखी खाँसी,8,hi
+बढ़ा हुआ,9,hi
+गुलाब रंग के धब्बे के विस्फोट,10,hi
+थकान,11,hi
+बुखार,12,hi
+एक सप्ताह के बाद से बुखार,13,hi
+लगातार खांसी,14,hi
+सिरदर्द,15,hi
+जलन,16,hi
+जोड़ों का दर्द,17,hi
+क्षाररागीश्वेतकोशिकाल्पता,18,hi
+जिगर इज़ाफ़ा,19,hi
+भूख न लगना,20,hi
+हल्के खून बह रहा है,21,hi
+मांसपेशियों में दर्द,22,hi
+मांसपेशियों और हड्डियों में दर्द,23,hi
+मांसलता में पीड़ा,24,hi
+मतली,25,hi
+दर्द,26,hi
+साष्टांग प्रणाम,27,hi
+लाल चकत्ते,28,hi
+लाली,29,hi
+नाक बह,30,hi
+गंभीर सिर दर्द,31,hi
+आँखों के पीछे गंभीर दर्द,32,hi
+धूम्रपान करने की लत,33,hi
+गले में ख़राश,34,hi
+तिल्ली का बढ़ना,35,hi
+थूक खाँसी जबकि,36,hi
+कठोरता,37,hi
+निगलने,38,hi
+सूजन,39,hi
+सीने में जकड़न के आसपास,40,hi
+उल्टी,41,hi
+पानी दस्त,42,hi
+वजन घटाने,43,hi
+गीला खांसी,44,hi
+घरघराहट,45,hi
+కడుపు తిమ్మిరి,0,te
+పొత్తి కడుపు నొప్పి,1,te
+అనోరెక్సియా,2,te
+బొబ్బలు,3,te
+చలి,4,te
+దగ్గు,5,te
+అతిసారం,6,te
+శ్వాస లో కష్టం,7,te
+పొడి దగ్గు,8,te
+విస్తారిత,9,te
+రోజ్ రంగు మచ్చలు విస్ఫోటనం,10,te
+అలసట,11,te
+జ్వరం,12,te
+ఒక వారం నుండి జ్వరం,13,te
+తరచుగా దగ్గు,14,te
+తలనొప్పి,15,te
+చికాకు,16,te
+కీళ్ల నొప్పి,17,te
+ల్యుకోపెనియా,18,te
+కాలేయ విస్తరణ,19,te
+ఆకలి నష్టం,20,te
+తేలికపాటి రక్తస్రావం,21,te
+కండరాల నొప్పి,22,te
+కండరాల మరియు ఎముక నొప్పి,23,te
+మైల్జియా,24,te
+వికారం,25,te
+నొప్పి,26,te
+అమిత శక్తిపాతంు,27,te
+దద్దుర్లు,28,te
+ఎరుపు,29,te
+కారుతున్న ముక్కు,30,te
+తీవ్రమైన తలనొప్పి,31,te
+కళ్ళు వెనుక తీవ్రమైన నొప్పి,32,te
+ధూమపానం అలవాటు,33,te
+గొంతు మంట,34,te
+ప్లీహము పెరుగుదల,35,te
+కఫంతో కఫం,36,te
+దృఢత్వం,37,te
+కబళించే,38,te
+వాపు,39,te
+ఛాతీ చుట్టూ బిగుతు,40,te
+వాంతులు,41,te
+జల విరేచనాలు,42,te
+బరువు నష్టం,43,te
+తడి దగ్గు,44,te
+గురకకు,45,te

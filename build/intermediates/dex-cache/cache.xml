@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/libs/javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f5f5f709662967b21891c23b19ad328fb306863">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/javacpp_1d50e88b074515f4c357f4b7895be82a4f594041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/libs/weka.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87d87cdd2b32130425429e2a0f23510ba57c3e15">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/weka_1f3d76ef14590677926918bb1629ba72fc88c1f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/.android/build-cache/7000a758e7dcad33f622c5d34b3f11f5656915a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/classes_2c0a4c92da0b5dd05709c1105977528cb41b01ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/libs/TarsosLSH-latest.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2edab618be845232d3bd84b525814b57471af603">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/TarsosLSH-latest_8fd5a1ae434e023816bdd3f330e18be25d96d073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/libs/javacv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32419c32b2973b3b28a5968248d6c0b24594a174">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/javacv_ef8d661823c53b71896152b4f4e46c5a416901c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/android-support-v4_4ec24109a1e25db6db1b1a362e9964f1666ec5a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/libs/pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9abb9316583beaa841a16f884282af120c5d4aa9">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/pocketsphinx-android-5prealpha-nolib_54f4e0664f1c8cdfc13f4c1f1ce2c40639a41be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/libs/mp3plugin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22183a9259f80bd0d21c0f9b20c652e599145525">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/mp3plugin_ae080a5c774056d3f7918274ef1f3d71604b0d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_fafd2b27fe51ef9048c351e6ca50d890ecfccefd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/danda/.android/build-cache/7000a758e7dcad33f622c5d34b3f11f5656915a3/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/danda/Vaidya_multilingual-master/Vaidya_multilingual-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_3f956fb338c793035dbfcbc3395d0742eb1c4f3b.jar" />
+    </item>
+
+</items>
